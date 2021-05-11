@@ -18,6 +18,7 @@
 
 main
 Output.bmp
+cmakebuild
 
 xor.pro.user
 build-xor*
